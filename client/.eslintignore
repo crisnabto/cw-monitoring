@@ -1,0 +1,7 @@
+*.test.js
+reportWebVitals.js
+setupTests.js
+.gitattributes
+src/index.js
+build/*
+jest.config.js
