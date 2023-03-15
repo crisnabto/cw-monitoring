@@ -7,7 +7,7 @@ import Checkout from './components/Checkout';
 function App() {
   return (
     <Routes>
-      <Route path="/transactions" element={<Transactions />} />
+      <Route path="/" element={<Transactions />} />
       <Route path="/checkout-transactions" element={<Checkout />} />
     </Routes>
   );
